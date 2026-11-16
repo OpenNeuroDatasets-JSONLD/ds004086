@@ -1,6 +1,6 @@
 onset	duration	trial_type	stimuli_response	correct_answer	reaction_time 
 3.72	3.4	word	2	2	3.242 
-7.122	1.7	confidence	*	n/a	* 
+7.122	1.7	confidence	n/a	n/a	* 
 14.244	3.4	word	2	1	2.299 
 17.646	1.7	confidence	1	n/a	1.074 
 24.451	3.4	word	1	2	2.206 
@@ -59,7 +59,7 @@ onset	duration	trial_type	stimuli_response	correct_answer	reaction_time
 219.075	1.7	confidence	2	n/a	0.568 
 222.294	3.4	word	1	1	1.335 
 225.696	1.7	confidence	4	n/a	0.399 
-232.718	3.4	word	*	1	* 
+232.718	3.4	word	n/a	1	* 
 236.121	1.7	confidence	4	n/a	0.415 
 240.324	3.4	word	1	1	1.944 
 243.726	1.7	confidence	3	n/a	0.431 
@@ -96,7 +96,7 @@ onset	duration	trial_type	stimuli_response	correct_answer	reaction_time
 350.736	3.4	word	2	1	2.212 
 354.139	1.7	confidence	1	n/a	0.784 
 357.141	3.4	word	1	2	1.252 
-360.543	1.7	confidence	*	n/a	* 
+360.543	1.7	confidence	n/a	n/a	* 
 362.845	3.4	word	2	2	1.487 
 366.248	1.7	confidence	3	n/a	0.297 
 371.351	3.4	word	1	1	1.025 
