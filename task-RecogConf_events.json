@@ -12,11 +12,13 @@
 		"Description": "Presentation of either a word stimulus or prompt for a confidence rating"
 	},
 	"stimuli_response": {
-		"LongName": "Stimuli Response",
-		"Description": "Participant response for whether word was old or new",
+		"LongName": "Button Press",
+		"Description": "Button pressed for each trial. For word stimuli, 1=old 2=new. For confidence, 1=lowest 4=highest",
 		"Levels": {
-			"1": "old",
-			"2": "new"
+			"1": "1",
+			"2": "2",
+			"3": "3",
+			"4": "4"
 		}
 	},
 	"correct_answer": {
