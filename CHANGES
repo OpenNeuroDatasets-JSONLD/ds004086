@@ -1,3 +1,7 @@
+1.3.0 2026-11-16
+  - added participants information
+  - corrected event timing file duplication errors
+  - corrected event timing file incorrect formatting
 1.2.0 2022-05-31
   - excluded sub-56 as they were missing fMRI runs
 1.1.0 2022-05-31
